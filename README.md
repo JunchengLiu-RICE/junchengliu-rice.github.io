@@ -1,6 +1,6 @@
 # Juncheng Liu — Personal Homepage
 
-Personal research homepage, hosted at **https://yimengqian.github.io/**.
+Personal research homepage, hosted at **https://junchengliu-rice.github.io/**.
 
 A responsive, accessible static site built with HTML, CSS, and JavaScript. No build step, package installation, tracking, or API keys are required.
 
